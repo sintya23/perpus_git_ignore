@@ -23,3 +23,17 @@ Aplikasi ini dibangun menggunakan:
 - [XAMPP](https://www.apachefriends.org/index.html) - Aplikasi XAMPP yang saya gunakan disini untuk mengelola database MYSQL dengan php MyAdmin, dan menjalankan script PHP.
 - [Yii2 Framework](https://www.yiiframework.com/) - Yii Framework merupakan sebuah framework PHP yang memiliki performa yang bagus. Di website perpustakaan ini saya menggunakan Yii framework.
 - [PHPMyAdmin](https://www.phpmyadmin.net/) - Aplikasi PHP MyAdmin digunakan untuk membuat database, relation dan juga migrate.
+
+## Installation
+
+Menginstal Yii2 menggunakan composer
+
+```sh
+composer create-project --prefer-dist yiisoft/yii2-app-perpus_skensa basic
+```
+
+Cara melihat hasil website Perpustakaan SMKN 1 Denpasar
+
+```sh
+localhost:8089/index.php?r=peminjaman
+```
