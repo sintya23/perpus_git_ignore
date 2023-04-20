@@ -29,7 +29,12 @@ Aplikasi ini dibangun menggunakan:
 Menginstal Yii2 menggunakan composer
 
 ```sh
-composer create-project --prefer-dist yiisoft/yii2-app-perpus_skensa basic
+git clone 
+```
+Masuk ke folder
+
+```sh
+xampp\htdocs\perpus_skensa
 ```
 
 Cara melihat hasil website Perpustakaan SMKN 1 Denpasar
