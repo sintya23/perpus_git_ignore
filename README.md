@@ -42,3 +42,9 @@ Cara melihat hasil website Perpustakaan SMKN 1 Denpasar
 ```sh
 localhost:8089/index.php?r=peminjaman
 ```
+
+## Plugins
+
+| Plugin | README |
+| ------ | ------ |
+| GitHub | [plugins/https://github.com/sintya23/perpus_skensa#readme][PlGh] |
