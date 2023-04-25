@@ -35,7 +35,7 @@ git clone
 Install Composer
 
 ```sh
-Composer Setup
+php composer-setup.php
 ```
 Membuat database di config sesuai dengan db.php
 
