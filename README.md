@@ -30,7 +30,7 @@ Aplikasi ini dibangun menggunakan:
 git clone 
 ```
 
-Install 
+Install dependencies menggunakan composer
 
 ```sh
 composer install
@@ -46,11 +46,11 @@ Run migrate
 yii migrate
 ```
 
+Hasil run dari website SMKN 1 Denpasar
+
 ```sh
 php yii serve --port=8089
 ```
-
-Hasil run dari website SMKN 1 Denpasar
 
 ```sh
 localhost:8089
