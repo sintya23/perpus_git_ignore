@@ -26,8 +26,9 @@ Aplikasi ini dibangun menggunakan:
 
 ## Installation
 
+Clone project
 ```sh
-git clone 
+git clone https://github.com/sintya23/perpus_skensa.git
 ```
 
 Install dependencies menggunakan composer
