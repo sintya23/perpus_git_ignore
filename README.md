@@ -26,33 +26,34 @@ Aplikasi ini dibangun menggunakan:
 
 ## Installation
 
-Menginstal Yii2 menggunakan composer
-
 ```sh
 git clone 
 ```
 
-Install Composer
+Install 
 
 ```sh
-php composer-setup.php
+composer install
 ```
 Membuat database di config sesuai dengan db.php
 
 ```sh
 dbname=perpusskensa
 ```
-
 Run migrate 
 
 ```sh
 yii migrate
 ```
 
+```sh
+php yii serve --port=8089
+```
+
 Hasil run dari website SMKN 1 Denpasar
 
 ```sh
-localhost:8089/index.php?r=peminjaman
+localhost:8089
 ```
 
 ## Plugins
