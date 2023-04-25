@@ -31,13 +31,13 @@ Menginstal Yii2 menggunakan composer
 ```sh
 git clone 
 ```
-Masuk ke folder
+Install Composer
 
 ```sh
-xampp\htdocs\perpus_skensa
+composer -v
 ```
 
-Cara melihat hasil website Perpustakaan SMKN 1 Denpasar
+
 
 ```sh
 localhost:8089/index.php?r=peminjaman
