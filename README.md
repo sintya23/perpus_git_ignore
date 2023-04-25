@@ -31,13 +31,20 @@ Menginstal Yii2 menggunakan composer
 ```sh
 git clone 
 ```
+
 Install Composer
 
 ```sh
 composer -v
 ```
 
+Membuat tabel di yii migrate
 
+```sh
+yii migrate/create create_peminjaman_table
+```
+
+hasil dari website SMKN 1 Denpasar
 
 ```sh
 localhost:8089/index.php?r=peminjaman
