@@ -35,16 +35,21 @@ git clone
 Install Composer
 
 ```sh
-composer -v
+Composer Setup
 ```
-
-Membuat tabel di yii migrate
+Membuat database di config sesuai dengan db.php
 
 ```sh
-yii migrate/create create_peminjaman_table
+dbname=perpusskensa
 ```
 
-hasil dari website SMKN 1 Denpasar
+Run migrate 
+
+```sh
+yii migrate
+```
+
+Hasil run dari website SMKN 1 Denpasar
 
 ```sh
 localhost:8089/index.php?r=peminjaman
