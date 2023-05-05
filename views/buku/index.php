@@ -37,7 +37,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'tahun_terbit',
             [
                 'attribute' => 'id_rak',
-                'value' => 'rak.nama'
+                'value' => 'rak.lokasi'
             ],
             //'id_rak',
             [

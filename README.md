@@ -61,4 +61,4 @@ localhost:8089
 
 | Plugin | README |
 | ------ | ------ |
-| GitHub | [plugins/https://github.com/sintya23/perpus_skensa#readme][PlGh] |
+| GitHub | [plugins/https://github.com/sintya23/landing_page.git][PlGh] |
